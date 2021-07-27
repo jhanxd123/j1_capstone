@@ -16,12 +16,12 @@
       <!-- small card -->
       <div class="small-box bg-info">
         <div class="inner">
-          <h3>150</h3>
+          <h3>Generate</h3>
 
-          <p>New Orders</p>
+          <p>QR For Passenger</p>
         </div>
         <div class="icon">
-          <i class="fas fa-shopping-cart"></i>
+          <i class="fas fa-qrcode"></i>
         </div>
         <a href="#" class="small-box-footer">
           More info <i class="fas fa-arrow-circle-right"></i>
@@ -33,9 +33,9 @@
       <!-- small card -->
       <div class="small-box bg-success">
         <div class="inner">
-          <h3>53<sup style="font-size: 20px">%</sup></h3>
-
-          <p>Bounce Rate</p>
+          <h3>5</h3>
+          {{-- <h3>53<sup style="font-size: 20px">%</sup></h3> --}}
+          <p>Queueing</p>
         </div>
         <div class="icon">
           <i class="fas fa-plus-square"></i>
@@ -50,7 +50,7 @@
       <!-- small card -->
       <div class="small-box bg-warning">
         <div class="inner">
-          <h3>44</h3>
+          <h3>2</h3>
 
           <p>User Registrations</p>
         </div>
@@ -69,10 +69,10 @@
         <div class="inner">
           <h3>65</h3>
 
-          <p>Unique Visitors</p>
+          <p>Registered Profiles</p>
         </div>
         <div class="icon">
-          <i class="fas fa-chart-pie"></i>
+          <i class="fas fa-user"></i>
         </div>
         <a href="#" class="small-box-footer">
           More info <i class="fas fa-arrow-circle-right"></i>

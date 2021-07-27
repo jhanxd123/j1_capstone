@@ -50,4 +50,10 @@ class HomeController extends Controller
         $dashbTitle = "Dispatcher's Profile";
         return view('pages.profile_dispatcher')->with('dashbTitle', $dashbTitle);;
     }
+
+    public function try()
+    {
+        $dashbTitle = "Dispatcher's Profile";
+        return view('pages.try')->with('dashbTitle', $dashbTitle);;
+    }
 }
