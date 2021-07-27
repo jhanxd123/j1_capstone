@@ -31,5 +31,8 @@ Route::get('/profile_vehicle', [HomeController::class, 'profile_vehicle']);
 // Account
 Route::get('/profile_dispatcher/account', [HomeController::class, 'profile_dispatcher']);
 
+// Trial Purposes
+Route::get('/try', [HomeController::class, 'try']);
+
 // Backup
 Route::get('/about', [HomeController::class, 'about']);
